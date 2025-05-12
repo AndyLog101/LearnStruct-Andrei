@@ -1,0 +1,119 @@
+1. Ce se referă la motorul cu pistoane lichide atunci este menționat ca un concept experimental și inovator?
+   a) Un concept vechi și neperfectionat
+   b) Un concept nou care începe să fie dezvoltat comercial
+   c) Un concept neviabil din punct de vedere al eficienței, fiabilității și chiar al uzurii reduse
+   d) Un concept obsolet care trebuie eliminat din producție
+
+2. Care este unul din principalele avantaje ale motorului cu piston lichid?
+   a) Reducerea frecării și uzurii
+   b) Eficiență termică mai scăzută
+   c) Mai multe piese în mișcare
+   d) Potrivit pentru utilizare în condiții normale
+
+3. Ceea ce se referă la lichidele necomprimabile din camera pistonului?
+   a) Gazele
+   b) Lichidele de vâscozitate mică
+   c) Lichidele de vâscozitate mare
+   d) Soluțiile solide
+
+4. Care este unul din aspectele tehnice ale motorului cu piston lichid?
+   a) Teoretic, funcționează prin utilizarea presiunii și mișcării gazelor pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   b) Teoretic, funcționează prin utilizarea presiunii și mișcării lichidului pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   c) Teoretic, funcționează prin utilizarea presiunii și mișcării solidelor pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   d) Teoretic, funcționează prin utilizarea presiunii și mișcării plasmei pentru a realiza funcțiile uzuale ale pistonului unui motor.
+
+5. Care este una dintre problemele tehnice majore în dezvoltarea unui motor cu piston lichid?
+   a) Asigurarea că lichidul nu se scurgă din sistem
+   b) Controlul dinamicii solide
+   c) Rezistența la pieire
+   d) Compatibilitatea cu combustibilii alternativi
+
+6. Care este unul dintre beneficiile potențiale ale motorului cu piston lichid?
+   a) Reducerea frecării și uzurii
+   b) Eficiență termică mai scăzută
+   c) Mai multe piese în mișcare
+   d) Potrivit pentru utilizare în condiții extreme
+
+7. Care este unul din principalul beneficii al motorului cu piston lichid?
+   a) Reducerea frecării și uzurii
+   b) Eficiență termică mai scăzută
+   c) Mai puține piese în mișcare
+   d) Potrivit pentru utilizare în condiții normale
+
+8. Care este unul din principalele proiecte de motor cu piston lichid?
+   a) Un concept vechi care începe să fie dezvoltat comercial
+   b) Un concept nou concentrat pe aplicații de scară mică sau ca parte a experimentelor mai largi pentru îmbunătățirea eficienței motoarelor.
+   c) Un concept vechi care trebuie eliminat din producție
+   d) Un concept obsolet care nu poate fi utilizat comercial
+
+9. Cum se referă la motorul cu piston lichid atunci este menționat ca un concept emergent și experimental?
+   a) Un concept vechi care începe să fie dezvoltat comercial
+   b) Un concept nou care încă nu a fost complet rezolvat
+   c) Un concept obsolet care trebuie eliminat din producție
+   d) Un concept neviabil din punct de vedere al eficienței, fiabilității și chiar al uzurii reduse
+
+10. Care este unul dintre avantajele ale motorului cu piston lichid?
+   a) Reducerea frecării și uzurii
+   b) Eficiență termică mai scăzută
+   c) Mai multe piese în mișcare
+   d) Potrivit pentru utilizare în condiții normale
+
+11. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Lichidele de vâscozitate mică
+   b) Lichidele de vâscozitate mare
+   c) Soluțiile solide
+   d) Gazele
+
+12. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Camera pistonului este umplută cu gazele
+   b) Camera pistonului este umplută cu lichidele de vâscozitate mare
+   c) Camera pistonului este umplută cu soluțiile solide
+   d) Camera pistonului este umplută cu plasmele
+
+13. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Utilizarea presiunii și mișcării gazelor pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   b) Utilizarea presiunii și mișcării lichidului pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   c) Utilizarea presiunii și mișcării solidelor pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   d) Utilizarea presiunii și mișcării plasmei pentru a realiza funcțiile uzuale ale pistonului unui motor.
+
+14. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Teoretic, motorul funcționează prin utilizarea presiunii și mișcării gazelor pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   b) Teoretic, motorul funcționează prin utilizarea presiunii și mișcării lichidului pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   c) Teoretic, motorul funcționează prin utilizarea presiunii și mișcării solidelor pentru a realiza funcțiile uzuale ale pistonului unui motor.
+   d) Teoretic, motorul funcționează prin utilizarea presiunii și mișcării plasmei pentru a realiza funcțiile uzuale ale pistonului unui motor.
+
+15. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Asigurarea că lichidul nu se scurgă din sistem
+   b) Controlul dinamicii gazelor
+   c) Rezistența la pieire
+   d) Compatibilitatea cu combustibilii alternativi
+
+16. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Asigurarea că lichidul rămâne în sistem și nu scurgerește
+   b) Controlul dinamicii gazelor
+   c) Rezistența la pieire
+   d) Compatibilitatea cu combustibilii alternativi
+
+17. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Asigurarea că lichidul nu scurge din sistem
+   b) Controlul dinamicii gazelor
+   c) Rezistența la pieire
+   d) Compatibilitatea cu combustibilii alternativi
+
+18. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Asigurarea că lichidul nu scurge din sistem
+   b) Controlul dinamicii gazelor
+   c) Rezistența la pieire
+   d) Compatibilitatea cu combustibilii alternativi
+
+19. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Asigurarea că lichidul rămâne în sistem și nu scurgerește
+   b) Controlul dinamicii gazelor
+   c) Rezistența la pieire
+   d) Compatibilitatea cu combustibilii alternativi
+
+20. Care este unul din elementele ale conceptului motorului cu piston lichid?
+   a) Asigurarea că lichidul rămâne în sistem și nu scurgerește
+   b) Controlul dinamicii gazelor
+   c) Rezistența la pieire
+   d) Compatibilitatea cu combustibilii alternativi
