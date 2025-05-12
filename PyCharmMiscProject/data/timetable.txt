@@ -1,0 +1,32 @@
+metadata:
+  start_hour: 8
+  lesson_duration: 50
+  break_duration: 10
+  days: Luni,Marți,Miercuri,Joi,Vineri
+  max_periods_per_day: 7
+
+teachers:
+  Limba germană: Ioan Popescu
+  Matematică: Maria Ionescu
+  Limba română: Ioana Georgescu
+  Fizică: Alexandru Stan
+  Limba engleză: Vlad Dumitrescu
+  Chimie: Elena Marin
+  Biologie: Diana Tudor
+  Educație fizică: Radu Matei
+  Istorie: Cristina Iliescu
+  Geografie: Ștefan Petrescu
+  Educație antreprenorială: Andrei Voicu
+  Educație vizuală: Anca Stoica
+  Psihologie: Florin Lazăr
+  Religie: Raluca Barbu
+  Informatică: George Grigore
+  TIC: George Grigore
+  Cultură germană: Ioan Popescu
+
+schedule:
+  Luni: Matematică,Limba română,Limba germană,Biologie,TIC,Educație fizică,Religie
+  Marți: Limba engleză,Educație antreprenorială,Istorie,Fizică,Limba română,Limba română,Educație vizuală
+  Miercuri: Matematică,Chimie,Informatică,Matematică,Geografie,Limba germană,Limba germană
+  Joi: Fizică,Chimie,Limba germană,Cultură germană,Psihologie,Biologie,Limba germană
+  Vineri: Educație fizică,Limba germană,Matematică,Fizică,Limba engleză,Limba germană,Matematică
